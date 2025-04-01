@@ -1,0 +1,75 @@
+{
+	"frontPage": {
+		"title": "TITLE_OF_THE_PRESENTATION",
+		"author": "NAME_OF_THE_AUTHOR"
+	},
+	"slide1-normal": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"image": "IMAGE_DESCRIPTION_FOR_THE_SLIDE"
+	},
+	"slide2-normal": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"image": "IMAGE_DESCRIPTION_FOR_THE_SLIDE"
+	},
+	"slide3-subChart": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"data": {
+            "name": "NAME_OF_DATA",
+            "labels": ["LABEL1_NAME", "LABEL2_NAME", "LABEL3_NAME"],
+            "values": [10, 20, 30]
+        },
+        "type": "TYPE_OF_CHART(bar/pie)"
+	},
+	"slide4-subTable": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"data": [
+			["FIELD1", "FIELD2", "FIELD3"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"]
+		]
+	},
+	"slide5-fullChart": {
+		"title": "TITLE_OF_SLIDE",
+		"data": {
+            "name": "NAME_OF_DATA",
+            "labels": ["LABEL1_NAME", "LABEL2_NAME", "LABEL3_NAME"],
+            "values": [10, 20, 30]
+        },
+        "type": "TYPE_OF_CHART(bar/pie)"
+	},
+	"slide6-fullTable": {
+		"title": "TITLE_OF_SLIDE",
+		"data": [
+			["FIELD1", "FIELD2", "FIELD3"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"],
+			["SOME_VALUE", "SOME_VALUE", "SOME_VALUE"]
+		]
+	},
+	"endPage": {
+		"title": "Thank you."
+	}
+}

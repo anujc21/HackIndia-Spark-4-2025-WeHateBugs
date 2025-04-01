@@ -1,0 +1,36 @@
+{
+	"frontPage": {
+		"title": "TITLE_OF_THE_PRESENTATION",
+		"author": "NAME_OF_THE_AUTHOR"
+	},
+	"slide1": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"image": "IMAGE_FOR_THE_SLIDE"
+	},
+	"slide2": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"image": "IMAGE_FOR_THE_SLIDE"
+	},
+	"slide3": {
+		"title": "TITLE_OF_SLIDE",
+		"body": {
+			"point1": "BODY_POINT_1",
+			"point2": "BODY_POINT_2",
+			"point3": "BODY_POINT_3"
+		},
+		"image": "IMAGE_FOR_THE_SLIDE"
+	},
+	"endPage": {
+		"title": "Thank you."
+	}
+}
