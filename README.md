@@ -14,7 +14,7 @@ Users can provide the following inputs to tailor the presentation:
 - **Description**: A brief description of the presentation's content or purpose.
 
 ### 2. **Choose a Template**
-Select from a variety of predefined `.py` templates, including:
+Select from a variety of predefined templates, including:
 - **Festive**
 - **Corporate**
 - **Minimal**
